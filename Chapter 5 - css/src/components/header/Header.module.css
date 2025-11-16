@@ -1,0 +1,23 @@
+/* Module CSS */
+
+.header {
+  display: flex;
+  background-color: #4998ed;
+  color: #111;
+  justify-content: space-between;
+  height: auto;
+}
+
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.header h2 {
+  margin: 5px;
+  text-decoration: underline;
+}
